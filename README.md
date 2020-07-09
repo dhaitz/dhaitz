@@ -2,9 +2,9 @@
 
 I'm Dominik, a data scientist in Hamburg, Germany.
 
-Connect with me on [Twitter](https://twitter.com/d_haitz) or via my [homepage](https://dhaitz.github.io/).
+Feel free to connect with me on [Twitter](https://twitter.com/d_haitz) or via my [homepage](https://dhaitz.github.io/).
 
-I'm working mostly in the Python-data-ecosystem, but I'm curious to learn more about web and app development.
+I'm working mostly in the Python data ecosystem, but I'm curious to learn more about web and app development.
 
 <!--
 **dhaitz/dhaitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
