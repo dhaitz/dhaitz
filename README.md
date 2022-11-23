@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm Dominik, a data scientist in Hamburg, Germany.
+I'm Dominik, a data scientist in Hamburg, Germany. I'm working mostly in the Python data ecosystem.
 
 Feel free to connect with me on [Twitter](https://twitter.com/d_haitz) or via my [homepage](https://dhaitz.github.io/).
-
-I'm working mostly in the Python data ecosystem, but I'm curious to learn more about web and app development.
 
 ![Python](https://img.shields.io/badge/-Python-FFFFFF?logo=python)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-FFFFFF?logo=jupyter&logoColor=F37626)
