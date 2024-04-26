@@ -2,7 +2,7 @@
 
 I'm Dominik, a data scientist in Hamburg, Germany. I'm working mostly in the Python data ecosystem.
 
-Feel free to connect with me on [Twitter](https://twitter.com/d_haitz) or via my [homepage](https://dhaitz.github.io/).
+Feel free to connect with me via my [homepage](https://dhaitz.github.io/).
 
 ![Python](https://img.shields.io/badge/-Python-FFFFFF?logo=python)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-FFFFFF?logo=jupyter&logoColor=F37626)
