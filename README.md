@@ -4,6 +4,8 @@ I'm Dominik, a data scientist in Hamburg, Germany. I'm working mostly in the Pyt
 
 Feel free to connect with me via my [homepage](https://dhaitz.github.io/).
 
+I keep a curated list of readworthy (data science) articles [here](https://github.com/dhaitz/data-science-links). My Mac dev setup is detailed [here](https://github.com/dhaitz/terminal-setup).
+
 ![Python](https://img.shields.io/badge/-Python-FFFFFF?logo=python)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-FFFFFF?logo=jupyter&logoColor=F37626)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-FFFFFF?logo=PyCharm&logoColor=33AA6F)
